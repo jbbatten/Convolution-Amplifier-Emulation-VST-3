@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="ZocaHW" name="ConvolutionProject" projectType="audioplug"
+              useAppConfig="0" addUsingNamespaceToJuceHeader="0" displaySplashScreen="1"
+              jucerFormatVersion="1" pluginCharacteristicsValue="pluginProducesMidiOut,pluginWantsMidiIn"
+              cppLanguageStandard="17">
+  <MAINGROUP id="DLSBxy" name="ConvolutionProject">
+    <GROUP id="{6FFF8F6E-836A-36C1-4FDB-17FBA9251BEF}" name="Impulse Responses">
+      <FILE id="Fi732T" name="cassette_recorder.wav" compile="0" resource="1"
+            file="Resources/cassette_recorder.wav"/>
+      <GROUP id="{7D0ACDFA-ED65-256C-DB58-2640D84FE098}" name="cabIR.eu_FE-VLUX65_C10NS_IR_Cab-Pack_170ms_48kHz-24bit">
+        <GROUP id="{4B754AFC-FAB3-9A05-3905-DFBAE728B3DC}" name="FOCUS">
+          <FILE id="r8pZTi" name="FE-VLUX65_FOCUS_A.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_A.wav"/>
+          <FILE id="gE2At1" name="FE-VLUX65_FOCUS_A_57.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_A_57.wav"/>
+          <FILE id="FeHEEw" name="FE-VLUX65_FOCUS_A_121.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_A_121.wav"/>
+          <FILE id="Z4ccOj" name="FE-VLUX65_FOCUS_A_184.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_A_184.wav"/>
+          <FILE id="izE27o" name="FE-VLUX65_FOCUS_A_414.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_A_414.wav"/>
+          <FILE id="wQrObU" name="FE-VLUX65_FOCUS_A_421.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_A_421.wav"/>
+          <FILE id="DoPwtA" name="FE-VLUX65_FOCUS_A_906.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_A_906.wav"/>
+          <FILE id="npbuit" name="FE-VLUX65_FOCUS_A_U67.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_A_U67.wav"/>
+          <FILE id="JkdXaz" name="FE-VLUX65_FOCUS_B.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_B.wav"/>
+          <FILE id="Ke5uru" name="FE-VLUX65_FOCUS_B_57.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_B_57.wav"/>
+          <FILE id="UcuU1g" name="FE-VLUX65_FOCUS_B_121.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_B_121.wav"/>
+          <FILE id="sx0ZXF" name="FE-VLUX65_FOCUS_B_184.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_B_184.wav"/>
+          <FILE id="E6iuCf" name="FE-VLUX65_FOCUS_B_414.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_B_414.wav"/>
+          <FILE id="wmxtBT" name="FE-VLUX65_FOCUS_B_421.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_B_421.wav"/>
+          <FILE id="ug4pQa" name="FE-VLUX65_FOCUS_B_906.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_B_906.wav"/>
+          <FILE id="olYCPN" name="FE-VLUX65_FOCUS_B_U67.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_B_U67.wav"/>
+          <FILE id="LhrjX6" name="FE-VLUX65_FOCUS_CAB.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_CAB.wav"/>
+          <FILE id="TiFikp" name="FE-VLUX65_FOCUS_CAB_57.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_CAB_57.wav"/>
+          <FILE id="EHZiLH" name="FE-VLUX65_FOCUS_CAB_121.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_CAB_121.wav"/>
+          <FILE id="bpbIvz" name="FE-VLUX65_FOCUS_CAB_184.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_CAB_184.wav"/>
+          <FILE id="DUSYEB" name="FE-VLUX65_FOCUS_CAB_414.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_CAB_414.wav"/>
+          <FILE id="h32E5y" name="FE-VLUX65_FOCUS_CAB_421.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_CAB_421.wav"/>
+          <FILE id="etHj6d" name="FE-VLUX65_FOCUS_CAB_906.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_CAB_906.wav"/>
+          <FILE id="MGWMK5" name="FE-VLUX65_FOCUS_CAB_U67.wav" compile="0" resource="1"
+                file="Impulse Responses/FOCUS/FE-VLUX65_FOCUS_CAB_U67.wav"/>
+        </GROUP>
+        <GROUP id="{04342ED9-7B45-B5FA-FDE8-112505B813F9}" name="MIX-CLASSICS">
+          <FILE id="O0hfRQ" name="FE-VLUX65_MIX_A_57+121_1.wav" compile="0" resource="1"
+                file="Impulse Responses/MIX-CLASSICS/FE-VLUX65_MIX_A_57+121_1.wav"/>
+          <FILE id="c0aefc" name="FE-VLUX65_MIX_A_57+121_2.wav" compile="0" resource="1"
+                file="Impulse Responses/MIX-CLASSICS/FE-VLUX65_MIX_A_57+121_2.wav"/>
+          <FILE id="dkDw9A" name="FE-VLUX65_MIX_A_57+421_1.wav" compile="0" resource="1"
+                file="Impulse Responses/MIX-CLASSICS/FE-VLUX65_MIX_A_57+421_1.wav"/>
+          <FILE id="p1v9S0" name="FE-VLUX65_MIX_A_57+421_2.wav" compile="0" resource="1"
+                file="Impulse Responses/MIX-CLASSICS/FE-VLUX65_MIX_A_57+421_2.wav"/>
+          <FILE id="tCUvkE" name="FE-VLUX65_MIX_A_57+U67_1.wav" compile="0" resource="1"
+                file="Impulse Responses/MIX-CLASSICS/FE-VLUX65_MIX_A_57+U67_1.wav"/>
+          <FILE id="RbSi6t" name="FE-VLUX65_MIX_A_57+U67_2.wav" compile="0" resource="1"
+                file="Impulse Responses/MIX-CLASSICS/FE-VLUX65_MIX_A_57+U67_2.wav"/>
+          <FILE id="ahT3mu" name="FE-VLUX65_MIX_B_57+121_1.wav" compile="0" resource="1"
+                file="Impulse Responses/MIX-CLASSICS/FE-VLUX65_MIX_B_57+121_1.wav"/>
+          <FILE id="t5eY4f" name="FE-VLUX65_MIX_B_57+121_2.wav" compile="0" resource="1"
+                file="Impulse Responses/MIX-CLASSICS/FE-VLUX65_MIX_B_57+121_2.wav"/>
+          <FILE id="nJzZop" name="FE-VLUX65_MIX_B_57+421_1.wav" compile="0" resource="1"
+                file="Impulse Responses/MIX-CLASSICS/FE-VLUX65_MIX_B_57+421_1.wav"/>
+          <FILE id="bIGCnr" name="FE-VLUX65_MIX_B_57+421_2.wav" compile="0" resource="1"
+                file="Impulse Responses/MIX-CLASSICS/FE-VLUX65_MIX_B_57+421_2.wav"/>
+          <FILE id="fieXMt" name="FE-VLUX65_MIX_B_57+U67_1.wav" compile="0" resource="1"
+                file="Impulse Responses/MIX-CLASSICS/FE-VLUX65_MIX_B_57+U67_1.wav"/>
+          <FILE id="ymlQNL" name="FE-VLUX65_MIX_B_57+U67_2.wav" compile="0" resource="1"
+                file="Impulse Responses/MIX-CLASSICS/FE-VLUX65_MIX_B_57+U67_2.wav"/>
+          <FILE id="joIYbX" name="FE-VLUX65_MIX_CAB_rear+57.wav" compile="0"
+                resource="1" file="Impulse Responses/MIX-CLASSICS/FE-VLUX65_MIX_CAB_rear+57.wav"/>
+          <FILE id="YAHs1d" name="FE-VLUX65_MIX_CAB_rear+421.wav" compile="0"
+                resource="1" file="Impulse Responses/MIX-CLASSICS/FE-VLUX65_MIX_CAB_rear+421.wav"/>
+          <FILE id="WsXnxQ" name="FE-VLUX65_MIX_CAB_rear+U67.wav" compile="0"
+                resource="1" file="Impulse Responses/MIX-CLASSICS/FE-VLUX65_MIX_CAB_rear+U67.wav"/>
+        </GROUP>
+      </GROUP>
+    </GROUP>
+    <GROUP id="{E7D1E290-E547-46DE-3713-7131ED9329CB}" name="Assets">
+      <FILE id="pRrhJr" name="off_button.png" compile="0" resource="1" file="Resources/off_button.png"/>
+      <FILE id="XeZmXH" name="on_button.png" compile="0" resource="1" file="Resources/on_button.png"/>
+      <FILE id="lCpcXT" name="trim_output.png" compile="0" resource="1" file="Resources/trim_output.png"/>
+      <FILE id="XG7c2c" name="vibrolux_faceplate.png" compile="0" resource="1"
+            file="Resources/vibrolux_faceplate.png"/>
+      <FILE id="uBfBYx" name="vibrolux_faceplate_background.png" compile="0"
+            resource="1" file="Resources/vibrolux_faceplate_background.png"/>
+      <FILE id="gPmrZT" name="vibrolux_faceplate_knob.png" compile="0" resource="1"
+            file="Resources/vibrolux_faceplate_knob.png"/>
+      <FILE id="ZjbGOr" name="vibrolux_faceplate_knob_updated.png" compile="0"
+            resource="1" file="Resources/vibrolux_faceplate_knob_updated.png"/>
+      <FILE id="c3AlQe" name="vibrolux_faceplate_knob2.png" compile="0" resource="1"
+            file="Resources/vibrolux_faceplate_knob2.png"/>
+      <FILE id="IwUXc6" name="vibrolux_faceplate_updated.png" compile="0"
+            resource="1" file="Resources/vibrolux_faceplate_updated.png"/>
+    </GROUP>
+    <GROUP id="{E68B9C04-3B93-51B5-6569-2379EBDE9AE9}" name="Source">
+      <FILE id="dn2pmU" name="RMSmeter.h" compile="0" resource="0" file="Source/RMSmeter.h"/>
+      <FILE id="QxIHRK" name="OutputTrimLAF.h" compile="0" resource="0" file="Source/OutputTrimLAF.h"/>
+      <FILE id="BWchdU" name="VibroluxLAF.h" compile="0" resource="0" file="Source/VibroluxLAF.h"/>
+      <FILE id="s6dyMg" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="onTvyT" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="DS85D0" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="YBmElH" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <VS2019 targetFolder="Builds/VisualStudio2019">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="ConvolutionProject"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="ConvolutionProject"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="D:/universityWork/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="D:/universityWork/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="D:/universityWork/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="D:/universityWork/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="D:/universityWork/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="D:/universityWork/JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="D:/universityWork/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="D:/universityWork/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="D:/universityWork/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="D:/universityWork/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="D:/universityWork/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="D:/universityWork/JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="D:/universityWork/JUCE/modules"/>
+      </MODULEPATHS>
+    </VS2019>
+    <VS2022 targetFolder="Builds/VisualStudio2022">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug"/>
+        <CONFIGURATION isDebug="0" name="Release"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="D:\JUCE\modules"/>
+        <MODULEPATH id="juce_audio_devices" path="D:\JUCE\modules"/>
+        <MODULEPATH id="juce_audio_formats" path="D:\JUCE\modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="D:\JUCE\modules"/>
+        <MODULEPATH id="juce_audio_processors" path="D:\JUCE\modules"/>
+        <MODULEPATH id="juce_audio_utils" path="D:\JUCE\modules"/>
+        <MODULEPATH id="juce_core" path="D:\JUCE\modules"/>
+        <MODULEPATH id="juce_data_structures" path="D:\JUCE\modules"/>
+        <MODULEPATH id="juce_dsp" path="D:\JUCE\modules"/>
+        <MODULEPATH id="juce_events" path="D:\JUCE\modules"/>
+        <MODULEPATH id="juce_graphics" path="D:\JUCE\modules"/>
+        <MODULEPATH id="juce_gui_basics" path="D:\JUCE\modules"/>
+        <MODULEPATH id="juce_gui_extra" path="D:\JUCE\modules"/>
+      </MODULEPATHS>
+    </VS2022>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+</JUCERPROJECT>
