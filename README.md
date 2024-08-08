@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/48a3ded8-06b9-4968-b78e-3744214a90f9)
+
 *DISCLAIMER* To build these projects it is recommended to use Projucer.
 
 JUCE DOWNLOAD LINK:
